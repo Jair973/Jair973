@@ -1,18 +1,3 @@
-<div>
-    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" alt="" srcset="">
-</div>
-<h1> Hola mi nombre es Jair Suarez Vera 
-        <img width="60px"  src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="" srcset="">
-    </h1>
-</div>
-<div> aling="center"
-    <img width= "100%" src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" alt="" srcset="">
-</div>
-<div> aling="center"
-    <h1> Hola mi nombre es Jair Suarez Vera 
-        <img width ="30 pcls" pcl src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="" srcset="">
-    </h1>
-</div>
 <div> aling="center"
     <img width= "100%" src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" alt="" srcset="">
 </div>
@@ -23,31 +8,12 @@
 </div>
 <div> aling="center"
     <p>Soy un profesional en finanzas con énfasis en codificación de software, 
-        caracterizado por combinar el análisis financiero con habilidades tecnológicas
-         para crear soluciones digitales eficientes. Tengo la capacidad de interpretar datos económicos,
-         optimizar procesos y desarrollar herramientas informáticas que apoyan la toma de decisiones estratégicas.
-          Me destaco por el pensamiento lógico, la orientación a resultados, el aprendizaje continuo y la adaptación 
-          a entornos tecnológicos, integrando conocimientos de programación, análisis de datos y gestión financiera 
-          para generar valor en organizaciones y proyectos.
-        </p>
-</div>
-
-<div> aling="center"
-    <img width= "100%" src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" alt="" srcset="">
-</div>
-<div> aling="center"
-    <h1> Hola mi nombre es Jair Suarez Vera 
-        <img width ="30 pcls" pcl src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="" srcset="">
-    </h1>
-</div>
-<div> aling="center"
-    <p>Soy un profesional en finanzas con énfasis en codificación de software, 
-        caracterizado por combinar el análisis financiero con habilidades tecnológicas
-         para crear soluciones digitales eficientes. Tengo la capacidad de interpretar datos económicos,
-         optimizar procesos y desarrollar herramientas informáticas que apoyan la toma de decisiones estratégicas.
-          Me destaco por el pensamiento lógico, la orientación a resultados, el aprendizaje continuo y la adaptación 
-          a entornos tecnológicos, integrando conocimientos de programación, análisis de datos y gestión financiera 
-          para generar valor en organizaciones y proyectos.
+       caracterizado por combinar el análisis financiero con habilidades tecnológicas
+       para crear soluciones digitales eficientes. Tengo la capacidad de interpretar datos económicos,
+       optimizar procesos y desarrollar herramientas informáticas que apoyan la toma de decisiones estratégicas.
+       Me destaco por el pensamiento lógico, la orientación a resultados, el aprendizaje continuo y la adaptación 
+       a entornos tecnológicos, integrando conocimientos de programación, análisis de datos y gestión financiera 
+       para generar valor en organizaciones y proyectos.
         </p>
 </div>
 
